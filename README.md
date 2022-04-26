@@ -1,4 +1,4 @@
-## Oiii sou Daniel Menezes, estudante de ciência da computação na UFF!
+## Oiii sou Daniel Menezes,editor de video estudante de ciência da computação na UFF 👋!
 
 <div align="center">
   <a href="https://github.com/dabmenez">
