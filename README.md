@@ -1,4 +1,4 @@
-## Oiii sou Daniel Menezes e sou estudante de ciência da computação na UFF 👋!
+## Olá, me chamo Daniel Menezes e sou estudante de ciência da computação na UFF 👋!
 
 <div align="center">
   <a href="https://github.com/dabmenez">
