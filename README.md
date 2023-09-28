@@ -20,7 +20,7 @@
   <img align="center" alt="Dani-AE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   
   
-  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif">
+  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif">
 </div>
   
   ##
