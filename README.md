@@ -1,4 +1,13 @@
-## Olá, me chamo Daniel Menezes e sou estudante de ciência da computação na UFF 👋!
+## Hello there, I'm Daniel Menezes👋
+- 🔭 I'm currently working on a artificial inteligence project
+- :satellite:	I'm part of [@midiacom](https://github.com/midiacom) and [@FriendsLabUFF](https://github.com/FriendsLabUFF)
+- 🌱 My interests are:
+  -  Python (data analysis, machine learning, deep learning) and Linux
+  -  Data science
+  -  Digital eletronics
+- 📫 How to reach me: dbmenezes@id.uff.br
+- 🤔 I’m looking to collaborate on AI developing projects and learning about Data science
+- 😊 Pronouns: he/him :male_sign:
 
 <div align="center">
   <a href="https://github.com/dabmenez">
@@ -19,9 +28,7 @@
   <img align="center" alt="Dani-Ph" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Dani-AE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
   
-  
-  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/LmBsnpDCuturMhtLfw/giphy.gif">
-</div>
+  </div>
   
   ##
  
