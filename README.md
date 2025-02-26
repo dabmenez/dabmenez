@@ -1,6 +1,6 @@
 ## Hello there, I'm Daniel Menezes👋
 - 🔭 I'm currently working at [@AetosTech](https://www.linkedin.com/company/aetos-tech/mycompany/)
-- :satellite:	I'm part of [@midiacom](https://github.com/midiacom) and [@FriendsLabUFF](https://github.com/FriendsLabUFF)
+- :satellite:	I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
 - 🌱 My interests are:
   -  Python (data analysis, machine learning, deep learning) and Linux
   -  Data science
