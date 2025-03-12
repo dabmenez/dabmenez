@@ -9,6 +9,14 @@
 - 🤔 I’m looking to collaborate on AI developing projects and learning about Data science
 - 😊 Pronouns: he/him :male_sign:
 
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/8K8b.gif"  />
+</div>
+
+###
+
 <div align="center">
   <a href="https://github.com/dabmenez">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dabmenez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
