@@ -1,14 +1,13 @@
-<h2 align="left">Hi 👋! My name is Daniel Menezes
-- 🔭 I'm currently working at [@AetosTech](https://www.linkedin.com/company/aetos-tech/mycompany/)
-- :satellite:	I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
-- 🌱 My interests are:
-  -  Python (data analysis, machine learning, deep learning) and Linux
-  -  Data science
-  -  Digital eletronics
-- 📫 How to reach me: dbmenezes@id.uff.br
-- 🤔 I’m looking to collaborate on AI developing projects and learning about Data science
-- 😊 Pronouns: he/him :male_sign:
-
+## Hello there, I'm Daniel Menezes👋
+ <h2 align="left">Hi 👋! My name is Daniel Menezes
+ - 🔭 I'm currently working at [@AetosTech](https://www.linkedin.com/company/aetos-tech/mycompany/)
+ - :satellite:	I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
+ - 🌱 My interests are:
+ @@ -9,44 +9,51 @@
+ - 🤔 I’m looking to collaborate on AI developing projects and learning about Data science
+ - 😊 Pronouns: he/him :male_sign:
+ 
+ <br clear="both">
 
 ###
 
