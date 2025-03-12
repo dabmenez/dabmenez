@@ -1,20 +1,14 @@
 ## Hello there, I'm Daniel Menezes👋
- <h2 align="left">Hi 👋! My name is Daniel Menezes
- - 🔭 I'm currently working at [@AetosTech](https://www.linkedin.com/company/aetos-tech/mycompany/)
- - :satellite:	I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
- - 🌱 My interests are:
- @@ -9,44 +9,51 @@
- - 🤔 I’m looking to collaborate on AI developing projects and learning about Data science
- - 😊 Pronouns: he/him :male_sign:
- 
- <br clear="both">
+- 🔭 I'm currently working at [@AetosTech](https://www.linkedin.com/company/aetos-tech/mycompany/)
+- :satellite:	I'm part of [@FriendsLabUFF](https://github.com/FriendsLabUFF)
+- 🌱 My interests are:
+  -  Python (data analysis, machine learning, deep learning) and Linux
+  -  Data science
+  -  Digital eletronics
+- 📫 How to reach me: dbmenezes@id.uff.br
+- 🤔 I’m looking to collaborate on AI developing projects and learning about Data science
+- 😊 Pronouns: he/him :male_sign:
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
